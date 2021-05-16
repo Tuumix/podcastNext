@@ -1,8 +1,9 @@
+import React from 'react';
+import Header from '../components/Header'
+
 const Home: React.FC = () => {
   return (
-    <div>
-      <h1>hello</h1>
-    </div>
+    <div></div>
   )
 }
 
